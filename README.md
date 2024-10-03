@@ -51,8 +51,10 @@ To run any of the web apps locally, follow these steps:
 
     ```bash
     python3 -m venv env
-    # For MacOS: source env/bin/activate
-    # For Windows: env\Scripts\activate
+    # For MacOS: 
+    source env/bin/activate
+    # For Windows: 
+    env\Scripts\activate
     ```
 4. Install the required dependencies:
 
