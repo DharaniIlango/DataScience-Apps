@@ -2,6 +2,8 @@
 
 📈 This application allows users to compare the stock prices of multiple companies over a selected time period. Users can input stock ticker symbols and visualize their price trends dynamically.
 
+# Live Preview
+The Project is live, checkout the following URL -> [Stock-Comparison-Application](https://stock-comparison-application.streamlit.app/Overview)
 ## Features
 
 - **User Input for Tickers**: Users can enter multiple stock ticker symbols separated by commas (e.g., `AAPL, AMZN, GOOG`).
