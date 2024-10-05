@@ -49,5 +49,3 @@ This project is licensed under the MIT License. See the LICENSE file for details
 2. Open your code editor or IDE.
 3. Create a new file named `README.md`.
 4. Paste the copied code into the file and save it.
-
-Feel free to customize any sections according to your project's needs, such as the repository link and any additional features or functionalities you wish to highlight! If you need further adjustments, let me know!
