@@ -20,7 +20,7 @@ These applications are inspired by resources from [FreeCodeCamp](https://www.fre
 
 Here is a list of the 10 web applications I will be building:
 
-1. **Simple Stock Price** - A basic app to display stock prices using an API.
+1. **Simple Stock Price** - An app to display and compare the stock prices using an API.
 2. **Simple Bioinformatics DNA Count** - A bioinformatics app to count nucleotides in a DNA sequence.
 3. **EDA Basketball** - Exploratory data analysis on basketball data.
 4. **EDA Football** - Exploratory data analysis on football data.
@@ -31,7 +31,7 @@ Here is a list of the 10 web applications I will be building:
 9. **Regression Boston Housing** - Build a regression model to predict housing prices in Boston.
 10. **Regression Bioinformatics Solubility** - A regression app for predicting solubility in bioinformatics.
 
-*Each app will have its own directory within this repository with a detailed description of the problem it solves, the features implemented, and instructions on how to run it.*
+_Each app will have its own directory within this repository with a detailed description of the problem it solves, the features implemented, and instructions on how to run it._
 
 ## Installation
 
@@ -42,32 +42,37 @@ To run any of the web apps locally, follow these steps:
    ```bash
    git clone https://github.com/DharaniIlango/DataScience-Apps
    ```
+
 2. Navigate to the repository folder:
 
-    ```bash
-    cd streamlit-webapps
-    ```
+   ```bash
+   cd streamlit-webapps
+   ```
+
 3. Create and activate a virtual environment:
 
-    ```bash
-    python3 -m venv env
-    # For MacOS: 
-    source env/bin/activate
-    # For Windows: 
-    env\Scripts\activate
-    ```
+   ```bash
+   python3 -m venv env
+   # For MacOS:
+   source env/bin/activate
+   # For Windows:
+   env\Scripts\activate
+   ```
+
 4. Install the required dependencies:
 
-    ```bash
-    pip install -r requirements.txt
-    ```
+   ```bash
+   pip install -r requirements.txt
+   ```
+
 5. Run the Streamlit app:
-    ```bash
-    streamlit run app_name.py
-    ```
-    Replace app_name.py with the corresponding app's Python file.
+   ```bash
+   streamlit run app_name.py
+   ```
+   Replace app_name.py with the corresponding app's Python file.
 
 ## Tech Stack
+
 - **Python**: For the core logic of the web applications.
 - **Streamlit**: To build and deploy interactive web apps.
 - **Pandas**: For data manipulation and analysis.
@@ -75,15 +80,18 @@ To run any of the web apps locally, follow these steps:
 - **Plotly/Matplotlib**: For data visualization in some apps.
 
 ## Learning Resources
+
 These applications are based on tutorials and inspiration from:
 
 - [FreeCodeCamp](https://www.freecodecamp.org/)
 - [Data Professor](https://www.youtube.com/c/DataProfessor)
 
 ## Contributing
+
 If you'd like to contribute to this project, feel free to fork the repository and submit a pull request. Whether it's fixing a bug, enhancing an app, or adding new features, all contributions are welcome!
 
 ## Contact
+
 Feel free to reach out to me for any questions or suggestions:
 
 - **Email**: [dharaniilango1209@gmail.com](mailto:dharaniilango1209@gmail.com)
