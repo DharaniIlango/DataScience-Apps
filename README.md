@@ -20,7 +20,7 @@ These applications are inspired by resources from [FreeCodeCamp](https://www.fre
 
 Here is a list of the 10 web applications I will be building:
 
-1. **Simple Stock Price** - An app to display and compare the stock prices using an API.
+1. **Stock Comparison App** - An app to display and compare the stock prices using an API.
 2. **Simple Bioinformatics DNA Count** - A bioinformatics app to count nucleotides in a DNA sequence.
 3. **EDA Basketball** - Exploratory data analysis on basketball data.
 4. **EDA Football** - Exploratory data analysis on football data.
